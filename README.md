@@ -1,5 +1,8 @@
 # UDP_Network_Communication
 
+Resource used to help setting up the socket:
+ https://www.cs.rutgers.edu/~pxk/417/notes/sockets/index.html
+
 Assignment 1 instructions:
 
 Instructions to compile and run the code
@@ -10,7 +13,7 @@ Instructions to compile and run the code
 
 Note- For server unresponsive test case, run "./client" without running the "./server" first.
 
-=========================================================================================================================
+==================================================================================================
 
 Assignment 2 instructions:
 
